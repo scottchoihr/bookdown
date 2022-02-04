@@ -1,6 +1,6 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "2022-02-02T21:48:51-07:00"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+My name is [Scott](https://www.linkedin.com/in/choiscott/) and welcome to my blog! I started this blog just to document and share some of my personal data science projects. I am passionate about business analytics and love to learn new languages and tools! Hope you find this useful and interesting! 
